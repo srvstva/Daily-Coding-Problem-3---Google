@@ -9,7 +9,7 @@ For those who also aren't familiar with this concept, here is a video that helpe
 If you have any suggestions on how to improve this resolution, feel free to contact me.
 
 Here is the Problem:
-
+ 
 "
 This problem was asked by Google.
 
