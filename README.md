@@ -1,5 +1,5 @@
 # Daily-Coding-Problem-3---Google
-Here is the resolution to the second Coding Problem sent to me by www.dailycodingproblem.com.
+Here is the resolution to the third Coding Problem sent to me by www.dailycodingproblem.com.
 
 I have to say, this was a tricky one, because...first of all i didn't know what was a binary tree, so the terms "node", "root"
 scared me. And i had to do a little research about the topic, since i wasn't familiar with the concept of this data structure.
